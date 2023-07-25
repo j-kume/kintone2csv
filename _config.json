@@ -1,0 +1,25 @@
+{
+  "clikintone_path": "C:\\xxxxxx\\xxxxxx\\cli-kintone.exe",
+  "output_dir": "C:\\xxxxx\\xxxxx\\xxxxx\\xxxxx\\data_download\\",
+  "base_url": "https://xxxxxxxxx.cybozu.com",
+  "apps": [
+    {
+      "app_name": "アプリA",
+      "id": 999,
+      "token": "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX",
+      "file_name": "F001_アプリA"
+    },
+    {
+      "app_name": "アプリB",
+      "id": 998,
+      "token": "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX",
+      "file_name": "F002_アプリB"
+    },
+    {
+      "app_name": "アプリC",
+      "id": 997,
+      "token": "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX",
+      "file_name": "F003_アプリC"
+    }
+  ]
+}
